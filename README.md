@@ -90,4 +90,4 @@ This project demonstrates my ability to perform **data cleaning, exploratory ana
 
 ## 📌 Author
 
-[Lada Bahdanovich]
+Lada Bahdanovich
